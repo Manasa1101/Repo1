@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SHOP NOW</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        a{
+            text-decoration: none;
+            margin-right: 30px;
+            color: cornsilk;
+        }
+        #header{
+            height: 70px;
+        }
+        #brand{
+            background-color: crimson;
+            width: 60%;
+            float: left;
+            height: 70px;
+            line-height: 70px;
+            color: cornsilk;
+        }
+        #menu{
+            background-color: crimson;
+            width: 40%;
+            float: right;
+            height: 70px;
+            text-align: center;
+            line-height: 70px;
+        }
+        #main{
+            height: 800px;
+            background-color: darkgrey;
+            text-align: center;
+            line-height: 35px;
+        }
+        #footer{
+            height: 200px;
+            background-color: dimgray;
+        }
+        #footer{
+            text-align: center;
+            line-height: 50px;
+        }
+    </style>
+</head>    
+
+<body>
+    
+<div id="header">
+    <div id="brand">
+      <h1>WELCOME TO MANASA'S ALL IN ONE</h1>
+    </div>
+    <div id="menu">
+<a href="https://www.flipkart.com/">flipkart</a>
+<a href="https://www.myntra.com/">myntra</a>
+<a href="https://www.amazon.in/">amazon</a>
+<a href="https://www.ajio.com/">ajio</a>
+    </div>
+<div id=main>
+    <h>SHOP ONLINE WITH BEST QUALITY</h>
+    <h1>flipkart</h1>
+    <h>The company initially focused on online book sales before expanding into other product categories such as consumer electronics, fashion, home essentials, groceries, and lifestyle products.</h>
+    <h1>myntra</h1>
+    <h>Myntra began selling fashion and lifestyle products and moved away from personalisation.Myntra offered products from 350 Indian and International brands.</h>
+    <h1>amazon</h1>
+    <h>An online marketplace for books but expanded to sell electronics, software, video games, apparel, furniture, food, toys, and jewelry.</h>
+    <h1>ajio</h1>
+    <h>Its retail outlets offer foods, groceries, apparel, footwear, toys, home improvement products, electronic goods, and farm implements and inputs.</h>
+    <table>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+
+<div id=footer>
+    <h1>"It’s the shop o’clock somewhere!"</h1>
+    <h2>"Fashion is what you buy, style is what you do with it."</h2>
+    <h1>HURRY UP</h1>
+</div>
+</body>
+
+    
